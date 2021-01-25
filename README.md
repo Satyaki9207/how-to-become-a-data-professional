@@ -31,7 +31,7 @@ Here 69% of the respondents are below 35 years of age and 55% are below 30 years
 #### 1.2 Gender Distribution
 Roughly 78% of the respondents were men, 19.4% were women and 1.8% were other genders, This is a trend commonly seen in other technical fields as well 
 
-![](/images/img1p2.PNG)
+![](/images/image1p2.PNG)
 
 #### 1.3 Country of Residence
 Most of the participants were from India and u.S. followed by Brazil, Japan and U.K.
