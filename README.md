@@ -169,3 +169,20 @@ That was a lot of information. But to summarize the major points of this analysi
 + Python and SQL are go to languages to learn for any data related role
 + A good portion of people working in this feild have less than 2 years of experience with coding and ML and is a reasonable goal for newcomers to strive towards
 + Businesses value deriving insights from data and simple ML algorithms over complex ones
+
+
+
+#### References
+1. [Kaggle Project From Scratch](https://www.kaggle.com/kenjee/kaggle-project-from-scratch#Part-1---How-to-Start-a-Kaggle-Competition)
+
+2. [Enthusiast to Data Professional - What changes?](https://www.kaggle.com/spitfire2nd/enthusiast-to-data-professional-what-changes)
+
+3. [Visualization & Analysis](https://www.kaggle.com/subinium/kaggle-2020-visualization-analysis)
+
+4. [Treasure Hunt - what gives to be REALLY good?](https://www.kaggle.com/andradaolteanu/treasure-hunt-what-gives-to-be-really-good)
+
+5. [Anaconda state of data science survey](https://www.anaconda.com/state-of-data-science-2020)
+
+6. [Big Mac Index](https://www.economist.com/big-mac-index)
+
+
