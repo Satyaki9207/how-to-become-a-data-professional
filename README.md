@@ -78,3 +78,11 @@ Most professionals fall in the 25-29 years age group with 30-34 years and 22-24 
 #### 2.3 Gender Distribution of professionals
 Similar to the trend observed with the survey respondents, roughly 83% of the professionals are men,16% women and remaining 1% are other genders
 ![](/images/image_2p3.PNG)
+
+#### 2.4 Pay variation with country
+Here I plot the median salaries of each country to find out the where the median salaries for data professionals is the highest. turns out US, Israel,UAE,Australia and Switzerland are countries with highest median salaries in the world. PPP here is calculated based on the big mac index which is a widely used number for assesing PPP. All aspects of cost of living may not be represented well by the index, but it gives a good rough estimate of the highest paying places in the world
+![](/images/median_ppp.PNG)
+
+#### 2.5 Level of formal education
+Often newcomers in data related fields wonder how much formal education does one need to break into the field. From the data here, it can be seen that around 46% professionals have master's degrees, 27% having bachelor's degrees and 17% having a doctorate. Thus having higher education certainly seems to have a significant impact on one's career prospects in a data related field
+![](/images/image_2p5.PNG)
