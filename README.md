@@ -34,7 +34,7 @@ Roughly 78% of the respondents were men, 19.4% were women and 1.8% were other ge
 ![](/images/image1p2.PNG)
 
 #### 1.3 Country of Residence
-Most of the participants were from India and u.S. followed by Brazil, Japan and U.K.
+Most of the participants were from India and U.S. followed by Brazil, Japan and U.K.
 
 ![](/images/img1p3.PNG)
 
