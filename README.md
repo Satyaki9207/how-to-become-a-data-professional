@@ -112,7 +112,21 @@ Here I take a look at education of people across different job titles. Masters d
 ![](/images/image_2p9.PNG)
 
 #### 2.10 Count of professionals across companies of different sizes
-Here I take a look at the headcount of different job roles across companies of different sizes. It seems like large number of data scientists work in startups and big coorporations
+Here I take a look at the headcount of different job roles across companies of different sizes. It seems like large number of data scientists work in startups and big coorporations.Also data scientists form the major propotion of data professionals followed by Data Analysts and software engineers
 ![](/images/image_2p10.PNG)
 
+#### 2.11 Pay variation accross companies of different sizes
+Here I compare median salaries of professionals across organizations of different sizes. In general bigger companies tend to pay more than smaller ones.Also product/project managers seem to be the highest paid positions accross organizations of different sizes
+![](/images/image_2p11.PNG)
 
+#### 2.12 machine learning practices of companies of different sizes
+The extent of machine learning usage is compared across companies of different sizes.It can be seen that big coorporations are the ones with well established ML procedures while smaller companies are still at an exploratory stages
+![](/images/image_2p12.PNG)
+
+#### 2.13 Preferred development environments
+Jupyter notebook/ juputer lab is by far the most preferred tool for building data science workflows followed by vscode and pycharm
+![](/images/image_2p13.PNG)
+
+#### 2.14 Popular hosted notebooks
+Colab and Kaggle notebooks seem to be the most popular hosted notebooks. It's surprising that almost 19% people dont use any of the hosted notebook services given the amount of compute power available for free
+![](/images/image_2p14.PNG)
