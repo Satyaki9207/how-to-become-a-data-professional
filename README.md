@@ -130,3 +130,31 @@ Jupyter notebook/ juputer lab is by far the most preferred tool for building dat
 #### 2.14 Popular hosted notebooks
 Colab and Kaggle notebooks seem to be the most popular hosted notebooks. It's surprising that almost 19% people dont use any of the hosted notebook services given the amount of compute power available for free
 ![](/images/image_2p14.PNG)
+
+#### 2.15 Coding experience needed for different professions
+It's an interesting question to ask how much coding experience is required to get into these fields.It can be seen that around 30% of pofessionals accross different job titles have less than 2 years of coding experience.
+![](/images/image_2p15.PNG)
+
+#### 2.16 Programming Languages to learn
+Python is by far the most used language in data related jobs while SQL comes in at second. This is not surprising since SQL plays a mojor role in accessing data from large data warehouses. Thus knowing SQL goes a long way in boosting career prospects of data professionals
+![](/images/image_2p16.PNG)
+
+#### 2.17 Popular Visualization libraries
+Matplotlib and Seaborn are the most used data visualization libraries since most people start out with these. Plotly produces interactve plots, but requires knowledge of data preprocessing to get certain types of visualizations. ggplot is a visualization library for R
+![](/images/image_2p17.PNG)
+
+#### 2.18 Years of Machine Learning experience across different professions
+About 40% of the people in all professions have machine learning experience of less than 2 years.Professionals like data and business analysts mostly do not have machine learning experience. Also 2 years of coding experience is subjective and can mean different things for different individuals depending on where they studied and number of hours they put in. But 2 years of ML experience is a reasonable goal for people trying to get into the field to strive towards
+![](/images/image_2p18.PNG)
+
+#### 2.19 Usage of ML Frameworks
+Scikit learn, Tensorflow and keras are the most popular ML Frameworks which is mostly what people learn while trying to get into this domain
+![](/images/image_2p19.PNG)
+
+#### 2.20 Preffered learning Platforms
+Coursera seems to be the top platform for learning data science followed by Udemy and Kaggle.
+![](/images/image_2p20.PNG)
+
+#### 2.21
+Despite the large number of sophistiacted ML algorithms, linear/logistic regression and tree based methods remain the top algorithms used for business purposes.This is because the results of these algorithms can be easily explained while more sophisticated deep learning methods may not be interpreted so readily.This also shows the importance of model interpretability for use in business cases
+![](/images/image_2p21.PNG)
