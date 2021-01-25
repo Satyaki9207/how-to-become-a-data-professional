@@ -97,13 +97,13 @@ Here I have plotted the median salaries of different age groups. In general it s
 
 #### 2.8 Responsibilities by job title
 
-+Here I try to explore what professionals do on a day to day basis. Analysing data for business decisions seems to be the most common responsibility accross majority of the job roles.This is not surprising since most time in the data science process is spent in understanding the data and deriving insights from it  
++ Here I try to explore what professionals do on a day to day basis. Analysing data for business decisions seems to be the most common responsibility accross majority of the job roles.This is not surprising since most time in the data science process is spent in understanding the data and deriving insights from it  
 
-+Data Analyst and Business Analyst roles seem very similar in terms of responsibilities  
++ Data Analyst and Business Analyst roles seem very similar in terms of responsibilities  
 
-+Data enigineers and database engineers have the responsibility of building and maintaing data infrastructure which is less common in other roles  
++ Data enigineers and database engineers have the responsibility of building and maintaing data infrastructure which is less common in other roles  
 
-+Data Scientists and Machine learning engineers seem to have the widest variety of responsibilities
++ Data Scientists and Machine learning engineers seem to have the widest variety of responsibilities
 
 ![](/images/image_2p8.PNG)
 
