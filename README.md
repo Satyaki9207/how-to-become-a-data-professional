@@ -107,4 +107,8 @@ Here I have plotted the median salaries of different age groups. In general it s
 
 ![](/images/image_2p8.PNG)
 
+#### 2.9 Job title and education
+Here I take a look at education of people across different job titles. Masters degree holders form the largest propotion of people across all job titles except for reseach scientists where majority of the people hold Phds
+![](/images/image_2p9.PNG)
+
 
