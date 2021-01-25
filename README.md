@@ -21,7 +21,7 @@ There are so many resources on the internet for learning Data science and well a
 + Popular machine learning Frameworks
 + Choice of learning platforms
 
-### General information about the survey respondents
+### Section 1: General information about the survey respondents
 
 #### 1.1 Age
 Here 69% of the respondents are below 35 years of age and 55% are below 30 years of age. This is inline with the fact that most data professions came into the spotlight very recently  
@@ -37,3 +37,35 @@ Roughly 78% of the respondents were men, 19.4% were women and 1.8% were other ge
 Most of the participants were from India and u.S. followed by Brazil, Japan and U.K.
 
 ![](/images/img1p3.PNG)
+
+
+### Section 2: A closer look at data professionals
+
+
+#### Criteria for being considered as a data professional
+
+For the purpose of this analysis, I'll consider anyone who has described their work in some form in Q23. There are a few people who seem to be employed, but haven't described their role. So I have omitted these people. The questions under Q23 were as follows
+
++ Analyze and understand data to influence product or business decisions
+
++ Build and/or run the data infrastructure that my business uses for storing, analyzing, and
+  operationalizing data
+
++ Build prototypes to explore applying machine learning to new areas
+
++ Build and/or run a machine learning service that operationally improves my product or
+  workflows
+
++ Experimentation and iteration to improve existing ML models
+
++ Do research that advances the state of the art of machine learning
+
++ None of these activities are an important part of my role at work
+
++ Other
+
+After applying the above criteria, there were roughly 9142 data professionals among 20,000 respondents
+
+#### 2.1 Salary Distribution
+For compairing salaries accross different countries, I have converted salaries in usd to purchasing power parity using the BigMac index sine the value of a given amount of money,say $100 varies in different regions across the world. Henceforth, salary will be in number of mac units. Salary distribution for the entire sample is shown below. As expected, it is a right skewed distribution with a long tail. Majority of the people earn less than 50,000 units while there are extremely high earning individuals, earning as high as >300,000 units
+![](/images/img_2p1.PNG)
