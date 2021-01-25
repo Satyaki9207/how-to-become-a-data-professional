@@ -158,3 +158,14 @@ Coursera seems to be the top platform for learning data science followed by Udem
 #### 2.21
 Despite the large number of sophistiacted ML algorithms, linear/logistic regression and tree based methods remain the top algorithms used for business purposes.This is because the results of these algorithms can be easily explained while more sophisticated deep learning methods may not be interpreted so readily.This also shows the importance of model interpretability for use in business cases
 ![](/images/image_2p21.PNG)
+
+
+### Conclusion
+That was a lot of information. But to summarize the major points of this analysis  
++ country of residence plays a big part in determining salaries of data professionals
++ Most professionals across job titles have a bachelor's or a master's degree
++ Data scientists form the biggest portion of people working with data
++ Pay increases with experience and company size
++ Python and SQL are go to languages to learn for any data related role
++ A good portion of people working in this feild have less than 2 years of experience with coding and ML and is a reasonable goal for newcomers to strive towards
++ Businesses value deriving insights from data and simple ML algorithms over complex ones
