@@ -26,4 +26,4 @@ There are so many resources on the internet for learning Data science and well a
 #### 1.1 Age
 Here 69% of the respondents are below 35 years of age and 55% are below 30 years of age. This is inline with the fact that most data professions came into the spotlight very recently  
 
-![] (https://github.com/Satyaki9207/how-to-become-a-data-professional/blob/master/images/img_1p1.PNG)
+![] (/images/img_1p1.PNG)
