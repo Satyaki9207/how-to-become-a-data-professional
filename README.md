@@ -73,4 +73,4 @@ For compairing salaries accross different countries, I have converted salaries i
 #### 2.2 Age of professionals
 Most professionals fall in the 25-29 years age group with 30-34 years and 22-24 years being the next highest groups. Overall more than half of the professionals are aged between 22 and 34 years
 
-![](/images/img_2p2.PNG)
+![](/images/image_2p2.PNG)
