@@ -111,4 +111,8 @@ Here I have plotted the median salaries of different age groups. In general it s
 Here I take a look at education of people across different job titles. Masters degree holders form the largest propotion of people across all job titles except for reseach scientists where majority of the people hold Phds
 ![](/images/image_2p9.PNG)
 
+#### 2.10 Count of professionals across companies of different sizes
+Here I take a look at the headcount of different job roles across companies of different sizes. It seems like large number of data scientists work in startups and big coorporations
+![](/images/image_2p10.PNG)
+
 
