@@ -74,3 +74,7 @@ For compairing salaries accross different countries, I have converted salaries i
 Most professionals fall in the 25-29 years age group with 30-34 years and 22-24 years being the next highest groups. Overall more than half of the professionals are aged between 22 and 34 years
 
 ![](/images/image_2p2.PNG)
+
+#### 2.3 Gender Distribution of professionals
+Similar to the trend observed with the survey respondents, roughly 83% of the professionals are men,16% women and remaining 1% are other genders
+![](/images/image_2p3.PNG)
