@@ -1,4 +1,4 @@
-### How to become a data professional -- Insights from Kaggle 2020 Data science survey
+### Becoming a data professional -- Insights from Kaggle 2020 Data science survey
 
 #### Project Background and motivation
 There are so many resources on the internet for learning Data science and well as a vast number of machine learning techniques from simple linear regression to advanced deep learning based methods. It may be very confusing for someone trying to break into the field to get a grasp of exactly what to learn. Since I'm trying to break into the field myself, I decided to explore Kaggle's 2020 data science survey. It consists of about 20,000 responses, both from students and professionals about their age, education ,job roles and large variety of other profession related topics.In this analysis, I tried looking at the professionals and data science practices of companies, both large and small and try to find patterns in professionals within a job role and across job roles
@@ -69,3 +69,8 @@ After applying the above criteria, there were roughly 9142 data professionals am
 #### 2.1 Salary Distribution
 For compairing salaries accross different countries, I have converted salaries in usd to purchasing power parity using the BigMac index sine the value of a given amount of money,say $100 varies in different regions across the world. Henceforth, salary will be in number of mac units. Salary distribution for the entire sample is shown below. As expected, it is a right skewed distribution with a long tail. Majority of the people earn less than 50,000 units while there are extremely high earning individuals, earning as high as >300,000 units
 ![](/images/img_2p1.PNG)
+
+#### 2.2 Age of professionals
+Most professionals fall in the 25-29 years age group with 30-34 years and 22-24 years being the next highest groups. Overall more than half of the professionals are aged between 22 and 34 years
+
+![](/images/img_2p2.PNG)
