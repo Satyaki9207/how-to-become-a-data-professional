@@ -155,7 +155,7 @@ Scikit learn, Tensorflow and keras are the most popular ML Frameworks which is m
 Coursera seems to be the top platform for learning data science followed by Udemy and Kaggle.
 ![](/images/image_2p20.PNG)
 
-#### 2.21
+#### 2.21 Most used ML algorithms
 Despite the large number of sophistiacted ML algorithms, linear/logistic regression and tree based methods remain the top algorithms used for business purposes.This is because the results of these algorithms can be easily explained while more sophisticated deep learning methods may not be interpreted so readily.This also shows the importance of model interpretability for use in business cases
 ![](/images/image_2p21.PNG)
 
