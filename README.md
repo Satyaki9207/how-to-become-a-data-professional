@@ -18,7 +18,7 @@ There are so many resources on the internet for learning Data science and well a
 images - folder containing the visualizations for different questions explored in the analysis  
 Supplementary data- contains information on how the survey was conducted and the descriptions and options for each question  
 becoming a data professional...ipynb- The file containing all the code for generating the visualizations
-global big mac index.xlsx- file containing big mac prices in countries around the world
+global big mac index.xlsx- file containing big mac prices in countries around the world  
 kaggle_survey_2020_responses.csv- file containing the survey responses 
 
 #### Results Summary
